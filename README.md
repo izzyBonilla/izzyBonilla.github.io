@@ -1,1 +1,2 @@
-# izzyBonilla.github.io
+# Izzy's Blog
+Welcome to my blog! This is a collection of all of my musings about music (both listening and playing), cars, video games, and all other ideas about the state of the world. This is intended to get me writing about things frequently, using the age-old trick of framing something you don't want to do around something you *do* enjoy. This will evolve hopefully to host some career information and personal projects as well!
